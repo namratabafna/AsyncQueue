@@ -1,8 +1,5 @@
 # Async Queue Processor
 
-**Running the command npm start initially will fail as the class AsyncQueue
-is not been created in the module `queue.js`. It is the your responsibility to create the class and export 
-it from the from the module.**
 
 ## AsyncQueue - Class Definition
 
